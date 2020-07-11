@@ -1,4 +1,4 @@
-![](/pfp.png)
+![](https://raw.githubusercontent.com/TheEnbyperor/TheEnbyperor/master/pfp.png)
 
 # Hi I'm Q!
 
