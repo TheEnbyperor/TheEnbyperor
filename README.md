@@ -1,4 +1,4 @@
-![](/assets/pfp.png)
+![](/pfp.png)
 
 # Hi I'm Q!
 
