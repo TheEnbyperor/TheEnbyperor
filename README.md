@@ -22,7 +22,7 @@ interpreted as described in [RFC 6919](https://tools.ietf.org/html/rfc6919).
 ## Supported locales
 
 - 🇬🇧 `en_GB`
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 `cy_CY`
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 `cy_GB-CYM`
 
 ## Brand guidelines
 
